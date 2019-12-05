@@ -1,6 +1,7 @@
 {
   "name": "cra-template-cypress",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
+  "private": false,
   "keywords": [
     "react",
     "create-react-app",
@@ -19,6 +20,9 @@
   },
   "bugs": {
     "url": "https://github.com/cypress-io/cra-template-cypress/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "files": [
     "template",
