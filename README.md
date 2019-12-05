@@ -1,5 +1,6 @@
 # cra-template-cypress
 
+![](https://github.com/cypress-io/cra-template-cypress/workflows/.github/workflows/main.yml/badge.svg)
 [![npm version](https://badge.fury.io/js/cra-template-cypress.svg)](https://badge.fury.io/js/cra-template-cypress)
 [![semantic-release][semantic-image]][semantic-url]
 [![renovate-app badge][renovate-badge]][renovate-app]
