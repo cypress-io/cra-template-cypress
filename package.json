@@ -11,7 +11,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cypress-io/cra-template-cypress.git",
+    "url": "https://github.com/cypress-io/cra-template-cypress.git"
   },
   "license": "MIT",
   "engines": {
