@@ -1,7 +1,13 @@
 # cra-template-cypress
 
-This is the official base template for [Create React App](https://github.com/facebook/create-react-app) with [Cypress](https://cypress.io).
+[Cypress](https://cypress.io) template for [Create React App](https://github.com/facebook/create-react-app).
 
-Create a new app based on this template:
+To use this template, add `--template cypress` when creating a new app.
 
-`npx create-react-app myapp --template cra-template-cypress`
+For example:
+
+`npx create-react-app my-app --template cypress`
+
+or
+
+`yarn create react-app my-app --template cypress`
