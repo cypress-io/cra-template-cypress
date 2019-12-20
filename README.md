@@ -21,3 +21,5 @@ or
 [semantic-url]: https://github.com/semantic-release/semantic-release
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
+
+:triangular_flag_on_post: Produced by the Cypress DX team. Interested in Cypress and work like this? We’re HIRING! Learn more at https://link.cypress.io/dx-engineer
