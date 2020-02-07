@@ -3,7 +3,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/user-event": "^7.1.2",
-    "cypress": "3.7.0",
+    "cypress": "4.0.0",
     "eslint-plugin-cypress": "^2.7.0"
   },
   "scripts": {
