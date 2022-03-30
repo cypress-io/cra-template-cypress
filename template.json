@@ -2,7 +2,7 @@
   "dependencies": {
     "@testing-library/react": "12.1.4",
     "@testing-library/jest-dom": "5.16.3",
-    "@testing-library/user-event": "13.5.0",
+    "@testing-library/user-event": "14.0.0",
     "cypress": "9.5.3",
     "eslint-plugin-cypress": "2.12.1"
   },
