@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@testing-library/react": "13.4.0",
+    "@testing-library/react": "14.0.0",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/user-event": "14.4.3",
     "cypress": "12.3.0",
